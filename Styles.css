@@ -58,7 +58,7 @@ h1 {
 .bg div:nth-child(1){
     height: 95%;
     width: 85%;
-    background-color: #331be8;
+    background-color: #e81b6d;
     bottom: 35%;
     left: 45%;
     animation-delay: 2s;
@@ -68,7 +68,7 @@ h1 {
 .bg div:nth-child(2) {
     height: 45%;
     width: 75%;
-    background-color: #3a0ebc;
+    background-color: #bc0e25;
     top:-12%;
     right: 12%;
     animation-delay: 4s ;
@@ -78,7 +78,7 @@ h1 {
 .bg div:nth-child(3){
     height: 65%;
     width: 250%;
-    background-color: #2e009a;
+    background-color: #9a3100;
     bottom: -15%;
     right: -20%;
     animation-delay: 5s;
@@ -87,7 +87,7 @@ h1 {
 .bg div:nth-child(4){
     height: 60%;
     width: 45%;
-    background-color: #3f6ed5;
+    background-color: #d55b3f;
     left: 20%;
     top: 10%;
 }
@@ -95,7 +95,7 @@ h1 {
 .bg div:nth-child(5){
     height: 50%;
     width: 75%;
-    background-color: #5500ff;
+    background-color: #ffa200;
     bottom: 20%;
     left: -18%;
     animation-delay: 1.2s;
@@ -104,7 +104,7 @@ h1 {
 .bg div:nth-child(6) {
     height: 45%;
     width: 20%;
-    background-color: #417bcc;
+    background-color: #cc41b7;
     top:22%;
     right: -12%;
     animation-delay: 1s ;
@@ -114,7 +114,7 @@ h1 {
 .bg div:nth-child(7){
     height: 15%;
     width: 15%;
-    background-color: #a32e8f;
+    background-color: #ffab36;
     bottom: 15%;
     left: 75%;
     animation-delay: 2s;
@@ -123,7 +123,7 @@ h1 {
 .bg div:nth-child(8){
     height: 35%;
     width: 75%;
-    background-color: #209afd;
+    background-color: #fd2041;
     bottom: 65%;
     left:-5%;
     animation-delay: 7s;
@@ -142,7 +142,7 @@ h1 {
 .bg div:nth-child(10){
     height: 25%;
     width: 35%;
-    background-color: #7a85ff;
+    background-color: #ff7aa4;
     bottom: 50%;
     left: 10%;
     animation-delay: 2s;
@@ -151,7 +151,7 @@ h1 {
 .bg div:nth-child(11){
     height: 20%;
     width: 35%;
-    background-color: #1768d2;
+    background-color: #ffac13;
     bottom: -5%;
     left: 0%;
     animation-delay: 3s;
@@ -160,7 +160,7 @@ h1 {
 .bg div:nth-child(12){
     height: 15%;
     width: 45%;
-    background-color: #7a85ff;
+    background-color: #ff7aaf;
     top: -10%;
     left: -10%;
     animation-delay: 2s;
@@ -403,7 +403,7 @@ li {
   padding:15px;
   width: auto;
   margin: 10px;
-  color: #edf6f9;
+  color: #7fdfff;
   border-radius: 50px;
   transition: 1s;
   font-weight:bolder;
